@@ -1,0 +1,15 @@
+E:\Programas\NameRefactoring\bin\Debug\net6.0\NameRefactoring.exe
+E:\Programas\NameRefactoring\bin\Debug\net6.0\NameRefactoring.deps.json
+E:\Programas\NameRefactoring\bin\Debug\net6.0\NameRefactoring.runtimeconfig.json
+E:\Programas\NameRefactoring\bin\Debug\net6.0\NameRefactoring.dll
+E:\Programas\NameRefactoring\bin\Debug\net6.0\ref\NameRefactoring.dll
+E:\Programas\NameRefactoring\bin\Debug\net6.0\NameRefactoring.pdb
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.csproj.AssemblyReference.cache
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.AssemblyInfoInputs.cache
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.AssemblyInfo.cs
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.csproj.CoreCompileInputs.cache
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.dll
+E:\Programas\NameRefactoring\obj\Debug\net6.0\ref\NameRefactoring.dll
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.pdb
+E:\Programas\NameRefactoring\obj\Debug\net6.0\NameRefactoring.genruntimeconfig.cache
